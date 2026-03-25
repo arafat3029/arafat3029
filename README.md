@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-I am a passionate learner and aspiring **Web Developer** who loves building clean, functional, and user‑friendly web applications. I enjoy exploring new technologies, improving my skills, and creating meaningful projects.
+I am a passionate **Frontend Developer** who loves building clean, functional, and user‑friendly web applications. I enjoy exploring new technologies, improving my skills, and creating meaningful projects.
 
 ---
 
